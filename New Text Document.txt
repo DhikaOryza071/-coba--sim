@@ -1,10 +1,10 @@
 jadwal sim :
 kontrak
-penjelasan 
+penjelasan kaakka
 basdat
 koneksi 
 
-
+akkaka
 
 mat_2:
 review
