@@ -2,5 +2,7 @@ jadwal sim :
 kontrak
 penjelasan 
 basdat
+koneksi 
+
 
 
